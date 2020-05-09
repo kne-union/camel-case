@@ -1,6 +1,6 @@
 {
   "name": "@kne/camel-case",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "将字符串转化成驼峰",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -28,9 +28,6 @@
     "url": "https://github.com/kne-union/camel-case/issues"
   },
   "homepage": "https://github.com/kne-union/camel-case#readme",
-  "dependencies": {
-    "@babel/runtime": "^7.7.7"
-  },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.7.6",
     "@babel/preset-env": "^7.7.7",
